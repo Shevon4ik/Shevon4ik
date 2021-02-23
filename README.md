@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
--🔭 I am now working on projects in 3D visualization and you can see my work here https://freelance.ru/shevon4ik
+-🔭 I am now working on projects in 3D visualization and you can see my work here
+[![link](https://img.shields.io/badge/freelance.ru-green?style=for-the-badge&logo=freelance)](https://freelance.ru/shevon4ik)
 
 -🌱 I'm currently studying at KhAI and it's very cool
 
